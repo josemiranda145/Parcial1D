@@ -1,0 +1,12 @@
+C:\Users\Jose Miranda\source\repos\Parcial 1 Diseño\Parcial 1 Diseño\bin\Debug\Parcial 1 Diseño.exe.config
+C:\Users\Jose Miranda\source\repos\Parcial 1 Diseño\Parcial 1 Diseño\bin\Debug\Parcial 1 Diseño.exe
+C:\Users\Jose Miranda\source\repos\Parcial 1 Diseño\Parcial 1 Diseño\bin\Debug\Parcial 1 Diseño.pdb
+C:\Users\Jose Miranda\source\repos\Parcial 1 Diseño\Parcial 1 Diseño\obj\Debug\Parcial 1 Diseño.csprojResolveAssemblyReference.cache
+C:\Users\Jose Miranda\source\repos\Parcial 1 Diseño\Parcial 1 Diseño\obj\Debug\Parcial_1_Diseño.Inicial.resources
+C:\Users\Jose Miranda\source\repos\Parcial 1 Diseño\Parcial 1 Diseño\obj\Debug\Parcial_1_Diseño.FormAdmin.resources
+C:\Users\Jose Miranda\source\repos\Parcial 1 Diseño\Parcial 1 Diseño\obj\Debug\Parcial_1_Diseño.FormAdminInventario.resources
+C:\Users\Jose Miranda\source\repos\Parcial 1 Diseño\Parcial 1 Diseño\obj\Debug\Parcial_1_Diseño.Properties.Resources.resources
+C:\Users\Jose Miranda\source\repos\Parcial 1 Diseño\Parcial 1 Diseño\obj\Debug\Parcial 1 Diseño.csproj.GenerateResource.cache
+C:\Users\Jose Miranda\source\repos\Parcial 1 Diseño\Parcial 1 Diseño\obj\Debug\Parcial 1 Diseño.csproj.CoreCompileInputs.cache
+C:\Users\Jose Miranda\source\repos\Parcial 1 Diseño\Parcial 1 Diseño\obj\Debug\Parcial 1 Diseño.exe
+C:\Users\Jose Miranda\source\repos\Parcial 1 Diseño\Parcial 1 Diseño\obj\Debug\Parcial 1 Diseño.pdb
